@@ -1,0 +1,11 @@
+{
+    "patients": [
+        {
+            "id": 1,
+            "name": "omprakash",
+            "disease": "fever",
+            "wardNo": 12,
+            "fees": 1500
+        }
+    ]
+}
